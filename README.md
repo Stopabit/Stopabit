@@ -15,11 +15,11 @@ computer vision for biological data - mostly in R and Python.
   lower-grade glioma RNA-seq data (DESeq2, clusterProfiler GSEA),
   recovering the LGG→GBM molecular progression axis from raw counts.
 
-- [**gerbil-behavior-tracking**](#) - DeepLabCut pipeline for automated
+- [**gerbil-behavior-tracking**](https://github.com/Stopabit/gerbil-behavior-tracking-) - DeepLabCut pipeline for automated
   open field test analysis in gerbils: pose estimation, arena/zone
   detection, and behavioral metric extraction from raw video.
 
-- [**hcv-fibrosis-ml**](#) - ML classification of liver fibrosis stage
+- [**hcv-fibrosis-ml**](https://github.com/Stopabit/hcv-fibrosis-ml-) - ML classification of liver fibrosis stage
   from clinical biomarkers. Full pipeline with baseline, model
   comparison, and an honestly reported negative result.
 
