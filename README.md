@@ -11,7 +11,7 @@ computer vision for biological data - mostly in R and Python.
 
 **Featured projects**
 
-- [**rnaseq-glioma-degs**](#) - Differential expression analysis of TCGA
+- [rnaseq-glioma-degs](https://github.com/Stopabit/rnaseq-glioma-degs) - Differential expression analysis of TCGA
   lower-grade glioma RNA-seq data (DESeq2, clusterProfiler GSEA),
   recovering the LGG→GBM molecular progression axis from raw counts.
 
