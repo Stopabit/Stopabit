@@ -8,10 +8,14 @@ computer vision-based animal tracking) and process/operations management
 in biotech (molecular diagnostics, clinical genetics) - now consolidating
 into computational biology.
 
-I work on problems across genomics, transcriptomics, applied ML, and
-computer vision for biological data - mostly in R and Python.
+I work on problems across genomics, transcriptomics, epigenomics, applied
+ML, and computer vision for biological data - mostly in R and Python.
 
 **Featured projects**
+
+- [**multi-omics**](https://github.com/Stopabit/multi-omics) - Integrated
+  RNA-seq, RRBS methylation, and ChIP-seq analysis of Type 2 Diabetes vs.
+  healthy controls in human skeletal muscle.
 
 - [**rnaseq-glioma-degs**](https://github.com/Stopabit/rnaseq-glioma-degs) - Differential expression analysis of TCGA
   lower-grade glioma RNA-seq data (DESeq2, clusterProfiler GSEA),
@@ -27,7 +31,4 @@ computer vision for biological data - mostly in R and Python.
 
 **Stack**
 
-`Python` `R` `Bioconductor` `DESeq2` `scikit-learn` `DeepLabCut` `pandas`
-
-
-
+`Python` `R` `Bioconductor` `DESeq2` `STAR` `Bismark` `MACS2` `scikit-learn` `DeepLabCut`
